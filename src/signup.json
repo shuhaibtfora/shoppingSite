@@ -1,0 +1,19 @@
+{
+    "status": 201,
+    "message": "Registered successfully",
+    "data": {
+        "id": "e2fd4765-5049-4ab2-8ca2-c7b305e6ff1f",
+        "date_added": "2021-08-31T15:29:36.168029+05:30",
+        "date_updated": "2021-08-31T15:29:36.168084+05:30",
+        "is_deleted": false,
+        "name": "shuhaib",
+        "phone": 9961689097,
+        "address": "shuhaibtp@gmdfsdfsdfsddsf",
+        "image": null
+    },
+    "auth": {
+        "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY2MTg1MzU3NiwianRpIjoiYjcyZDIyZDY0Njc2NDhmNmJhZGQ4ZjYzY2QzMGNhNzciLCJ1c2VyX2lkIjo3fQ.YcaRmAkc34az-oLQhww_DC4LEET0r5PavC5cNBVi9ko",
+        "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjM5MDQzOTc2LCJqdGkiOiI5NjViNzZmNTAzNGE0MTFiOTI4OTM3NWNlNzZiZGE1ZCIsInVzZXJfaWQiOjd9.3fEDSCo4WlaP3mGwXDfLleWinW5F0ic-1tZGB-7Niy8",
+        "role": "painter"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "Valid credentials.",
+    "auth": {
+        "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY2MTg0MTc5MCwianRpIjoiOGQ0ZTRmNmVkZmIzNGEwZGI4NDhmMTczMzRkZWU4ZGQiLCJ1c2VyX2lkIjo2fQ.1NUUeZOhGEDDE4SwZAQzuV1s4sEa526B3yLjwSXolVQ",
+        "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjM5MDMyMTkwLCJqdGkiOiJhZTljNjJhMjliODE0NzIzYTg3NzZkNGVlMDE5YzZhMyIsInVzZXJfaWQiOjZ9.f-lLlE6P6d0TrAMSNGGs5RbEjBI_Bdyr-s6_fBTHa5I",
+        "role": "painter"
+    }
+}
